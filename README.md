@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dantas</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+- 🔭 I’m currently working on [my website](https://github.com/Marcelofcdantas/myWebsite)
+
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, Python, MySQL**
+
+- 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
 - 📫 How to reach me **marcelofcdeveloper@gmail.com**
 
