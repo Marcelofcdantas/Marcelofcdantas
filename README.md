@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my website](https://github.com/Marcelofcdantas/myWebsite)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Python, MySQL**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Redux, Python, MySQL**
 
 - 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
