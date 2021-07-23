@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Python**
 
-- 📫 How to reach me **marcelofcdeveloper@gmail.com** or **marcelo@marcelofdantas.com.br**
+- 📫 How to reach me **marcelofcdeveloper@gmail.com** or **contato@marcelofdantas.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
