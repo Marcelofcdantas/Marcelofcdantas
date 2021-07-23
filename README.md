@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dantas</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [my website](marcelofcdantas.com.br)
+- 🔭 I’m currently working on [my website](www.marcelofcdantas.com.br)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, Redux, Python, MySQL**
 
