@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dantas</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on my website **www.marcelofcdantas.com.br**
+- 🔭 I’m currently working on my website **www.marcelofcdantas.com.br** creating a new version in React.
 
 - 🌱 I’m currently learning **NodeJs and Java**
 
