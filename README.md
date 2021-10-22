@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on my website **www.marcelofcdantas.com.br**
 
-- 🌱 I’m currently learning **MySQL, MongoDB, NodeJs and Java**
+- 🌱 I’m currently learning ** NodeJs and Java**
 
 - 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python**
+- 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, MySQL and MongoDB**
 
 - 📫 How to reach me **marcelofcdeveloper@gmail.com** or **contato@marcelofdantas.com.br**
 
