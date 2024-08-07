@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, MySQL and MongoDB**
 
-- 📫 How to reach me **marcelofcdeveloper@gmail.com** or **contato@mdprogramando.com.br**
+- 📫 How to reach me **marcelofcdeveloper@gmail.com**
 
  <div>
   <a href="https://github.com/Marcelofcdantas">
