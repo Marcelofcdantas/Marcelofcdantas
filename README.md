@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on my new website **www.mdprogramando.com.br**.
 
-- 🌱 I’m currently learning **NodeJs, Java, Spring Boot, PostgreSQL, Ruby and Go**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, MySQL and MongoDB**
+- 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, Go, MySQL and MongoDB**
 
 - 📫 How to reach me **marcelofcdeveloper@gmail.com**
 
