@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my new website **www.mdprogramando.com.br**.
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP, Cynbersecurity and Network**
 
 - 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
