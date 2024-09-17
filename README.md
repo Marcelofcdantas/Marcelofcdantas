@@ -13,7 +13,7 @@
 
  <div>
   <a href="https://github.com/Marcelofcdantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelofcdantas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Marcelofcdantas}&theme={github_dark}"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelofcdantas&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
