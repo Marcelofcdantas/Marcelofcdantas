@@ -13,8 +13,13 @@
 
  <div>
   <a href="https://github.com/Marcelofcdantas">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Marcelofcdantas}&theme={github_dark}"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelofcdantas&layout=compact&langs_count=7&theme=merko"/>
+   <p align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcelofcdantas&theme=github_dark"/>
+   </br>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcelofcdantas&theme=github_dark"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcelofcdantas&theme=github_dark"/>
+  </p>
+  </a>
 </div>
 <div style="display: inline_block"><br>
 
