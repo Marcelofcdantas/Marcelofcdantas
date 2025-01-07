@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dantas</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil but living in Canada</h3>
 
 - 🔭 I’m currently working on my new website **www.mdprogramando.com.br**.
 
@@ -8,6 +8,8 @@
 - 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, Go, MySQL and MongoDB**
+
+- Rust ![image](http://rust-lang.org/logos/rust-logo-32x32.png) is the language I decided to learn in 2025 as personal goal.
 
 - 📫 How to reach me **marcelofcdeveloper@gmail.com**
 
