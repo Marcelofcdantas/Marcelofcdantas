@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dantas</h1>
 <h3 align="center">A passionate fullstack developer from Brazil but living in Canada</h3>
 
-- 🔭 I’m currently working on my new website **www.mdprogramando.com.br**.
+- 🌱 I’m currently learning **C#, Cybersecurity and Network**
 
-- 🌱 I’m currently learning **PHP, Cybersecurity and Network**
-
-- 👨‍💻 Some of my projects developed at Trybe's course are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
+- 👨‍💻 Some of the projects I developed during my studies at Trybe's course at the beginning of my journey, are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, Go, MySQL and MongoDB**
 
