@@ -6,9 +6,9 @@
 - 👨‍💻 Some of the projects I developed during my studies at Trybe's course at the beginning of my journey, are available at [https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches](https://github.com/Marcelofcdantas/Meus-Projetos-Trybe/branches)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, Python, Go, MySQL and MongoDB**
-
+<!--
 - Rust ![image](http://rust-lang.org/logos/rust-logo-32x32.png) is the language I decided to learn in 2025 as personal goal.
-
+-->
 - 📫 How to reach me **marcelofcdeveloper@gmail.com**
 
  <div>
