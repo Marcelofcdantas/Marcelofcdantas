@@ -96,7 +96,7 @@ Reusable backend API structure designed to accelerate development of scalable ap
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/marcelofcdantas/
-* Email: marcelofcdeveloper@gmail.com
+* Email: marcelodantas@securestackhub.com
 
 ---
 
