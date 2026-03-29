@@ -56,7 +56,7 @@ Tool designed to analyze logs and detect suspicious activity patterns.
 * Export to JSON, CSV, and HTML
 * Focus on anomaly detection and security insights
 
-👉 https://github.com/Marcelofcdantas/security-log-analyzer
+👉 https://github.com/Marcelofcdantas/LogSentry---Security-Log-Analyzer
 
 ---
 
