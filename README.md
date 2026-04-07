@@ -47,6 +47,17 @@ A platform for security tools and fullstack applications.
 
 ## 🚀 Featured Projects
 
+### 📝 Job Application Tracker (Full-Stack)
+
+A complete application to manage and track job applications, featuring a dedicated API and a dynamic dashboard.
+
+* **Frontend:** Built with React for an intuitive user experience.
+* **Backend:** Scalable REST API developed with Node.js.
+* Track application status, dates, and company details.
+* Focus on clean architecture and state management.
+
+👉 **Front-end:** [GitHub Repo](https://github.com/Marcelofcdantas/Job-Application-Tracker-Frontend) | **Back-end:** [GitHub Repo](https://github.com/Marcelofcdantas/Job-Application-Tracker-API)
+
 ### 🔍 Security Log Analyzer
 
 Tool designed to analyze logs and detect suspicious activity patterns.
@@ -56,7 +67,7 @@ Tool designed to analyze logs and detect suspicious activity patterns.
 * Export to JSON, CSV, and HTML
 * Focus on anomaly detection and security insights
 
-👉 https://github.com/Marcelofcdantas/LogSentry---Security-Log-Analyzer
+👉 [GitHub Repo](https://github.com/Marcelofcdantas/LogSentry---Security-Log-Analyzer)
 
 ---
 
@@ -69,22 +80,7 @@ Tool for scanning open ports and analyzing network exposure.
 * Security-focused utility
 * Built with performance and simplicity in mind
 
-👉 https://github.com/Marcelofcdantas/PortsScan
-
----
-
-### 📡 API Boilerplate (Node.js)
-
-Reusable backend API structure designed to accelerate development of scalable applications.
-
-* Modular architecture (MVC pattern)
-* Centralized error handling
-* Input validation structure
-* Ready-to-use routing system
-* Designed for scalability and reuse
-
-👉 https://github.com/Marcelofcdantas/model-API
-
+👉 [GitHub Repo](https://github.com/Marcelofcdantas/PortsScan)
 
 ---
 
